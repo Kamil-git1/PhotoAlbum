@@ -1,6 +1,4 @@
-Oto estetyczny i czytelny fragment **README.md** opisujący, jak uzyskać klucze GitHub OAuth i skonfigurować `.env` w Twoim projekcie:
 
----
 
 ## 🔑 Konfiguracja GitHub OAuth
 
@@ -70,10 +68,7 @@ npm run dev
 require('dotenv').config();
 ```
 
----
 
-Czy chcesz, żebym przygotował **pełną sekcję w README** z:
-✔ Instalacją projektu,
 ✔ Konfiguracją `.env` (dla GitHub OAuth i JWT),
 ✔ Uruchomieniem backendu i frontendu,
 ✔ Przykładowymi endpointami API?
