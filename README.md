@@ -68,8 +68,3 @@ npm run dev
 require('dotenv').config();
 ```
 
-
-✔ Konfiguracją `.env` (dla GitHub OAuth i JWT),
-✔ Uruchomieniem backendu i frontendu,
-✔ Przykładowymi endpointami API?
-Mogę od razu napisać kompletny wzór README.md dla Twojego projektu.
